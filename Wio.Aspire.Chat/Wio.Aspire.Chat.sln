@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wio.Aspire.Chat.AppHost", "Wio.Aspire.Chat.AppHost\Wio.Aspire.Chat.AppHost.csproj", "{ACF9CB93-EECE-45AD-9E90-DF5119974C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wio.Aspire.Chat.ServiceDefaults", "Wio.Aspire.Chat.ServiceDefaults\Wio.Aspire.Chat.ServiceDefaults.csproj", "{1563B5F0-6B27-4B13-B854-C7135F40975A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wio.Aspire.Chat.ApiService", "Wio.Aspire.Chat.ApiService\Wio.Aspire.Chat.ApiService.csproj", "{511FAD21-3C39-44DE-BE90-082138DDC424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wio.Aspire.Chat.Web", "Wio.Aspire.Chat.Web\Wio.Aspire.Chat.Web.csproj", "{8BBA1EB6-65BE-42E2-BD0B-B478F27035FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF9CB93-EECE-45AD-9E90-DF5119974C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF9CB93-EECE-45AD-9E90-DF5119974C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF9CB93-EECE-45AD-9E90-DF5119974C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF9CB93-EECE-45AD-9E90-DF5119974C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1563B5F0-6B27-4B13-B854-C7135F40975A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1563B5F0-6B27-4B13-B854-C7135F40975A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1563B5F0-6B27-4B13-B854-C7135F40975A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1563B5F0-6B27-4B13-B854-C7135F40975A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511FAD21-3C39-44DE-BE90-082138DDC424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511FAD21-3C39-44DE-BE90-082138DDC424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511FAD21-3C39-44DE-BE90-082138DDC424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511FAD21-3C39-44DE-BE90-082138DDC424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BBA1EB6-65BE-42E2-BD0B-B478F27035FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBA1EB6-65BE-42E2-BD0B-B478F27035FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBA1EB6-65BE-42E2-BD0B-B478F27035FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBA1EB6-65BE-42E2-BD0B-B478F27035FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
